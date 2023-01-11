@@ -1,0 +1,10 @@
+best color for nav bar color 
+
+#7d50df
+#06c
+rgb(0 125 250 0.6)
+#2997ff
+#0070c9
+#0087f2
+#0f6ea1
+#6e6e73
